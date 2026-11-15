@@ -1,0 +1,16 @@
+.DS_Store
+._*
+__MACOSX/
+__pycache__/
+*.py[cod]
+*.zip
+*.log
+opencore-*.txt
+backups/
+*.bak
+*.tmp
+*.ips
+*.ioreg
+nvram*.plist
+EFI/OC/config.before-*.plist
+EFI/OC/config.local.plist
